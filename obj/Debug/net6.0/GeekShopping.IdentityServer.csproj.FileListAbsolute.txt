@@ -1,0 +1,7 @@
+C:\Users\ruanl\OneDrive\Documentos\Code\Projeto .NET\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruanl\OneDrive\Documentos\Code\Projeto .NET\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.AssemblyInfoInputs.cache
+C:\Users\ruanl\OneDrive\Documentos\Code\Projeto .NET\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.AssemblyInfo.cs
+C:\Users\ruanl\OneDrive\Documentos\Code\Projeto .NET\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.csproj.CoreCompileInputs.cache
+C:\Users\ruanl\OneDrive\Documentos\Code\Projeto .NET\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ruanl\OneDrive\Documentos\Code\Projeto .NET\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.RazorAssemblyInfo.cache
+C:\Users\ruanl\OneDrive\Documentos\Code\Projeto .NET\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.RazorAssemblyInfo.cs
